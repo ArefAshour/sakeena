@@ -1,0 +1,30 @@
+{
+ "name": "سكينة",
+ "short_name": "سكينة",
+ "description": "تطبيق إسلامي: مواقيت الصلاة، القرآن والتفسير، الأذكار، الأحاديث، ختمتي",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "dir": "rtl",
+ "lang": "ar",
+ "theme_color": "#1f7a5c",
+ "background_color": "#f6f4ee",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
